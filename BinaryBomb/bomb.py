@@ -8,8 +8,7 @@
 # Mail:        Shahin@ZDResearch.com
 # Twitter:     @ShahinRamezany
 #
-# Created:     05/03/2013
-# Copyright:   (c) ZDResearch
+# Copyright:   (c) Shahin Ramezany
 # Licence:     GPL v3
 #-------------------------------------------------------------------------------
 
